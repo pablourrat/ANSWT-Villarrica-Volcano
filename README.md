@@ -1,4 +1,7 @@
 # ANSWT-Villarrica-Volcano
+
+[<img src="img/vertical_slices_3D_view.png" width="400"/>](img/vertical_slices_3D_view.png)
+
 ## English 
 Shear-Wave velocity model from Villarrica volcano region developed in Urra-Tapia et al., 2023.
 
