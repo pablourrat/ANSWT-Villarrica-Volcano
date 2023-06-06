@@ -15,6 +15,10 @@ Directory Vs_model: Contains XYZ files for depths from 0 to 10 km every 250 mete
 
 For any other information or to request the manuscript. Please contact me by email: pablourra2016@udec.cl
 
+The available data must be cited as:
+
+Urra-Tapia, P., González-Vidal, D., Miller, M., & Palma, J. L. (2023). The seismic structure of Villarrica Volcano revealed by ambient noise tomography. Journal of Volcanology and Geothermal Research, 107829.
+
 ## Español
 Modelo de velocidad de onda S de la región del volcán Villarrica desarrollado en Urra-Tapia et al., 2023.
 
@@ -27,6 +31,12 @@ Directorio Vs_Anom: Contiene archivos XYZ para profundidades ente 0 a 10 km cada
 Direcotrio Vs_model: Contiene archivos XYZ para profundidades ente 0 a 10 km cada 250 metros. Cada archivo consiste en 3 columnas de Longitud - Latitud - Velocidad absoluta
 
 Para consultar por otros datos o pedir el manuscrito. Por favor, contactarme por email: pablourra2016@udec.cl
+
+El uso de los datos disponibles debe ser citado como:
+
+Urra-Tapia, P., González-Vidal, D., Miller, M., & Palma, J. L. (2023). The seismic structure of Villarrica Volcano revealed by ambient noise tomography. Journal of Volcanology and Geothermal Research, 107829.
 # References
 
 Mordret, A., Landès, M., Shapiro, N. M., Singh, S. C., Roux, P., & Barkved, O. I. (2013). Near-surface study at the Valhall oil field from ambient noise surface wave tomography. Geophysical Journal International, 193(3), 1627-1643.
+
+Urra-Tapia, P., González-Vidal, D., Miller, M., & Palma, J. L. (2023). The seismic structure of Villarrica Volcano revealed by ambient noise tomography. Journal of Volcanology and Geothermal Research, 107829.
